@@ -1,5 +1,3 @@
-## Hi!
-
 I'm a homo sapiens specimen who does R&D and data science and also creates open-source tools and software across different science, engineering, and business domains.
 
 Here I mainly do:
